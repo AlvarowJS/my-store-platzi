@@ -1,0 +1,6 @@
+Get:
+
+task viene a ser una entidad
+los endpoints deben ser en plural
+api.example.com/tasks/{id}
+api.example.com/tasks/{id}/task
